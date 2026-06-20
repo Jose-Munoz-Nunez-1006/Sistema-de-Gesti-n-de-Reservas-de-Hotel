@@ -8,13 +8,13 @@ El programa permite registrar, buscar, actualizar y eliminar reservas, además d
 
 Este proyecto fue desarrollado como ejercicio práctico para reforzar los contenidos de:
 
-* Listas
-* Diccionarios
-* Funciones
-* Validaciones
-* Manejo de excepciones
-* Ciclos repetitivos
-* Estructuras condicionales
+- Listas
+- Diccionarios
+- Funciones
+- Validaciones
+- Manejo de excepciones
+- Ciclos repetitivos
+- Estructuras condicionales
 
 ---
 
@@ -24,15 +24,15 @@ Este proyecto fue desarrollado como ejercicio práctico para reforzar los conten
 
 Permite registrar una nueva reserva solicitando:
 
-* Código de reserva
-* Nombre del huésped
-* Cantidad de noches
-* Valor por noche
+- Código de reserva
+- Nombre del huésped
+- Cantidad de noches
+- Valor por noche
 
 El sistema calcula automáticamente:
 
-* Total de la reserva
-* Categoría de la reserva
+- Total de la reserva
+- Categoría de la reserva
 
 ### 2. Buscar reserva
 
@@ -42,9 +42,9 @@ Permite buscar una reserva mediante su código y mostrar todos sus datos.
 
 Permite modificar:
 
-* Nombre del huésped
-* Cantidad de noches
-* Valor por noche
+- Nombre del huésped
+- Cantidad de noches
+- Valor por noche
 
 Recalculando automáticamente el total y la categoría.
 
@@ -60,10 +60,10 @@ Muestra todas las reservas registradas en el sistema.
 
 Entrega información general del hotel:
 
-* Cantidad total de reservas
-* Ingresos totales
-* Reserva de mayor valor
-* Promedio de ingresos por reserva
+- Cantidad total de reservas
+- Ingresos totales
+- Reserva de mayor valor
+- Promedio de ingresos por reserva
 
 ### 7. Salir
 
@@ -73,21 +73,23 @@ Finaliza la ejecución del programa.
 
 ## 📋 Categorías de Reserva
 
-| Categoría | Condición                       |
-| --------- | ------------------------------- |
-| Económica | Total menor a $200.000          |
-| Estándar  | Total entre $200.000 y $500.000 |
-| Premium   | Total superior a $500.000       |
+| Categoría | Condición |
+|------------|------------|
+| Económica | Total menor a $200.000 |
+| Estándar | Total entre $200.000 y $500.000 |
+| Premium | Total superior a $500.000 |
 
 ---
 
 ## 🛠 Tecnologías Utilizadas
 
-* Python 3
-* Diccionarios
-* Listas
-* Funciones
-* Manejo de excepciones
+- Python 3
+- Listas
+- Diccionarios
+- Funciones
+- Manejo de excepciones
+- Estructuras condicionales
+- Estructuras repetitivas
 
 ---
 
@@ -124,17 +126,25 @@ python main.py
 
 ## 🎯 Objetivo Académico
 
-Proyecto orientado al aprendizaje de estructuras de datos y programación modular utilizando Python.
+Proyecto desarrollado para aplicar los contenidos de la unidad de programación relacionados con listas, diccionarios, funciones, validaciones y manejo de excepciones mediante la construcción de una solución modular en Python.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Integrantes
 
-José Muñoz Núñez <br>
-Matias Tranamil
+- José Eduardo Muñoz Núñez
+- Matías Tranamil
 
-## Colaboracion Docente
+---
 
-Fabian Saldano Perez<br>
-Estudiante de Ingeniería en Informática - Duoc UC
+## 👨‍🏫 Profesor Colaborador
 
+- Fabián Saldano Pérez
+
+---
+
+## 🏫 Institución
+
+Duoc UC  
+Ingeniería en Informática  
+Fundamentos de Programación
