@@ -141,3 +141,9 @@ Proyecto desarrollado para aplicar los contenidos de la unidad de programación 
 
 - Fabián Saldano Pérez
 
+## 🏫 Institución
+
+Duoc UC  
+Ingeniería en Informática  
+Fundamentos de Programación
+
