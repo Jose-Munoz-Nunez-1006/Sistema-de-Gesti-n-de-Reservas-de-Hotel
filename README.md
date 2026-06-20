@@ -130,11 +130,11 @@ Proyecto orientado al aprendizaje de estructuras de datos y programación modula
 
 ## 👨‍💻 Autor
 
-José Muñoz Núñez
+José Muñoz Núñez <br>
 Matias Tranamil
 
 ## Colaboracion Docente
 
-Fabian Saldano Perez
+Fabian Saldano Perez<br>
 Estudiante de Ingeniería en Informática - Duoc UC
 
